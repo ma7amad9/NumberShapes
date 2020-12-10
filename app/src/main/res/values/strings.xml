@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="please_enter_any_number_to_detecte_if_it_trianguler_or_square_number">Please Enter Any Number to
+        Detecte if it Trianguler or Square Number
+    </string>
+    <string name="dev_by_sallot">Dev. By SalloT</string>
+    <string name="number_shapes_app">Number Shapes App</string>
+    <string name="check">Check</string>
+</resources>
